@@ -42,9 +42,9 @@ a <- as.data.frame(replicate(100, sample(1:6, 10, replace = TRUE)))
 
 # b) Being y the variable that counts the number of times that we have to roll a die until the first 3 appears, 
 # detetmine P(y=5).
-dgeom(x = 4, prob = 1/6)
+dgeom(x = 4, prob = 1/6) #0.08037551
 
 # c) If z is a Poisson variable of parameter = 5, determine P(z>2).
-1-ppois(2,5)
+1-ppois(2,5) #0.875348
 
 
