@@ -1,5 +1,3 @@
-# PAC 3 Estadística UOC
-
 # Exercise 1 ####
 # Consider a set of test grades that follows a normal distribution with mean = 78 and standard deviation = 36
 
